@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a567ddc14166b5344badde10b67c9acd
+timeCreated: 1519200787
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Blocked
+  fontNames:
+  - Blocked
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
